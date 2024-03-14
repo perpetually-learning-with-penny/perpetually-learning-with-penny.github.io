@@ -1,0 +1,42 @@
+.menu {
+  background-color: #4169e1;
+  height: 5%;
+}
+
+.menu li {
+  display: inline-block;
+  list-style-type: none;
+  padding: 3%;
+}
+
+.menu a {
+  color: white;
+}
+
+.flag {
+  width: 300px;
+  height: 500px;
+  overflow-x: scroll;
+}
+
+.flag-view {
+  width: 500%;
+}
+
+.flag-band {
+  float: left;
+  width: 300px;
+  height: 500px;
+}
+
+.flag-blue {
+  background-color: #5BCEFA;
+}
+
+.flag-pink {
+  background-color: #F5A9B8;
+}
+
+.flag-white {
+  background-color: #FFFFFF;
+}
